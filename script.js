@@ -1,4 +1,4 @@
-const apiKey = "YOUR_API_KEY"; 
+const apiKey = "392a3e087133a4410eeb7a1348474d3"; 
 
 function getCitySuggestions() {
   const query = document.getElementById("cityInput").value.trim();
